@@ -5,10 +5,25 @@ Maintainer: ButterSmooth <darknessvoideds@icloud.com>
 Depends: mobilesubstrate
 Filename: debs/RiplPro.deb
 Size: 3282
-MD5sum: E2DDE1BBBBAC0CC4FD7F21D564863384
-SHA1: 2954459F4C435A8AC1EC0850DBBC260BDD6CC0FA
-SHA256: 6FFFDB7BD2B5D1D770C2B35C2790B729F2E4D9D236D92024E61CADEAA8C22DE8
+MD5sum: e2dde1bbbbac0cc4fd7f21d564863384
+SHA1: 2954459f4c435a8ac1ec0850dbbc260bdd6cc0fa
+SHA256: 6fffdb7bd2b5d1d770c2b35c2790b729f2e4d9d236d92024e61cadeaa8c22de8
 Section: Tweaks
 Description: Unlocks all premium features in Ripl.
 Author: ButterSmooth <darknessvoideds@icloud.com>
 Name: RiplPro
+
+Package: com.ButterSmooth.HexaTech
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: ButterSmooth <darknessvoideds@icloud.com>
+Depends: mobilesubstrate
+Filename: debs/Hexa.deb
+Size: 1794
+MD5sum: 173b3167123b9ff7ece07dc8bab7e277
+SHA1: 6d716cc82e4ae766ce328b7aa1b9cec861a212d8
+SHA256: 672d1ea20e47c4eb14d0a85883967c5a2eecf531db10404ea5bc9cf041b7cc95
+Section: Tweaks
+Description: Unlocks all premium features in HexaTech.
+Author: ButterSmooth <darknessvoideds@icloud.com>
+Name: HexaTech Premium
